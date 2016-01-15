@@ -1,18 +1,15 @@
 # Site settings
-title: Major Ursa Blog
+title: Underhill Labs
 #email: bartlantz@gmail.com
-description: "This is a blog about all of my geeky loves and obsessions: vim and emacs, programming, statistics, math and science fiction."
+description: "Underhill Labs is the experimental development lab of Bart Lantz"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://majorursa.net" # the base hostname & protocol for your site
-twitter_username: bartofdenver
+url: "http://underhilllabs.com" # the base hostname & protocol for your site
 github_username:  underhilllabs
 
 collections:
   reviews:
     output: true
   notes:
-    output: true
-  bookreviews:
     output: true
 
 # Build settings
