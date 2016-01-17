@@ -29,7 +29,9 @@ $content-width:    900px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-
+.navbar-inverse {
+  background-color: #005600;
+}
 
 // Using media queries with like this:
 // @include media-query($on-palm) {
