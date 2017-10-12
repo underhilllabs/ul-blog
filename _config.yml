@@ -1,9 +1,9 @@
 # Site settings
-title: Underhill Labs
+title: Bart Lantz | Programming, Painting, & Sci-fi
 #email: bartlantz@gmail.com
 description: "Underhill Labs is the experimental development lab of Bart Lantz"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://underhilllabs.com" # the base hostname & protocol for your site
+url: "http://bartlantz.com" # the base hostname & protocol for your site
 github_username:  underhilllabs
 
 collections:
